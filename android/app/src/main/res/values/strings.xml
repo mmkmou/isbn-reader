@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Book ISBN Finder</string>
+    <string name="title_activity_main">Book ISBN Finder</string>
+    <string name="package_name">me.mmkmou.isbn_finder</string>
+    <string name="custom_url_scheme">me.mmkmou.isbn_finder</string>
+</resources>

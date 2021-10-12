@@ -1,0 +1,6 @@
+{
+	"appId": "me.mmkmou.isbn_finder",
+	"appName": "Book ISBN Finder",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
